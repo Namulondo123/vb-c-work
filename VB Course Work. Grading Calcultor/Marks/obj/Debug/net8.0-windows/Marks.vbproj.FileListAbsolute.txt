@@ -1,0 +1,16 @@
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\bin\Debug\net8.0-windows\Marks.exe
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\bin\Debug\net8.0-windows\Marks.deps.json
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\bin\Debug\net8.0-windows\Marks.runtimeconfig.json
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\bin\Debug\net8.0-windows\Marks.dll
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\bin\Debug\net8.0-windows\Marks.pdb
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.Form1.resources
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.vbproj.GenerateResource.cache
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfoInputs.cache
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.AssemblyInfo.vb
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.vbproj.CoreCompileInputs.cache
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.dll
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\refint\Marks.dll
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.pdb
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\Marks.genruntimeconfig.cache
+C:\Users\MIGHTYONE\Desktop\New folder (2)\Marks\obj\Debug\net8.0-windows\ref\Marks.dll
